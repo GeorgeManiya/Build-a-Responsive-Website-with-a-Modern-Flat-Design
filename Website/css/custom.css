@@ -1,0 +1,94 @@
+body {
+    font-family: 'Open Sans';
+}
+
+/*
+** Headers
+*/
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Lato';
+}
+
+/*
+** Containers
+*/
+
+.container {
+    padding: 40px 20px;
+}
+
+.container-spacy {
+    padding: 80px 20px;
+}
+
+/*
+** Backgrounds
+*/
+
+.background-orange {
+    background-color: #f8bc3b;
+}
+
+/*
+** Header
+*/
+
+header#main {
+    margin-bottom: 40px;
+}
+
+header#main .brand a {
+    font-family: 'Pacifico';
+    font-size: 2em;
+    color: #393f4a;
+}
+
+/*
+** Nav
+*/
+
+nav#main ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+nav#main ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav#main ul li:last-child {
+    margin-right: 0;
+}
+
+nav#main ul li a {
+    font-size: 78%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+nav#main ul li a:not(.button) {
+    color: #393f4a;
+}
+
+/*
+** Buttons
+*/
+
+.button {
+    padding: 14px 30px;
+    border-radius: 5px;
+}
+
+.button-primary,
+.button-primary:hover {
+    background: #3a3a3a;
+    color: white;
+}
