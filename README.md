@@ -1,4 +1,6 @@
-# Build-a-Responsive-Website-with-a-Modern-Flat-Design
+## Build instructions
+
+### Requirejs optimization
 
 1. Install Node.js(https://nodejs.org/en/download/ -> Current -> ...) if it is not already on your machine.
 Verify that you are running node version 0.4 or higher;
